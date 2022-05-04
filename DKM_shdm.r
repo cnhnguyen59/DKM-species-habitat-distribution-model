@@ -1,6 +1,6 @@
 ###### Dark Kangaroo Mouse Species Habitat Distribution Model ######
 # This code will be used to create a SHDM for the Dark Kangaroo Mouse
-# Data was acquired from 
+# Data was acquired from the Utah Division of Wildlife Resources.
 # Code Written by Christine Nguyen
 
 ##### IMPORT AND ORGANIZE DATA ######
